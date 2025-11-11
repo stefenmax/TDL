@@ -1,0 +1,15 @@
+params.imratio = imratio;
+params.projMC = ProjMC;
+params.Dsource2centr = 199.52;
+params.Dsource2detec = 271.88;
+params.NumofView = 100;
+
+% Configure start angle for projection views
+startAngle = 60;  % Start angle in degrees (adjust as needed)
+endAngle = startAngle + 360 - 360/params.NumofView;
+params.iViews = linspace(startAngle, endAngle, params.NumofView);  % degrees
+
+params.NumofBin = 1468;       % number of detector bins
+params.pixelsize = 0.3;
+params.binsize = 0.11;
+params.binshift = 3.2;               % detector shift, mm
