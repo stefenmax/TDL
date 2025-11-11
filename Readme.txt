@@ -1,3 +1,7 @@
-ËµÃ÷£º
+è¯´æ˜ï¼š
 
-TDLÎª»ùÓÚÕÅÁ¿×ÖµäÑ§Ï°µÄÄÜÆ×CTÖØ½¨µÄ³ÌĞò£¬ResultsÎÄ¼ş¼ĞÓÃÀ´±£´æÊ¹ÓÃµ½µÄÊı¾İºÍµü´úÖØ½¨Ê±Éú³ÉµÄÖĞ¼ä½á¹û£¬ÆäËûÎÄ¼ş¼ĞÖĞÎªÆäËûÏà¹Øº¯Êı£¬¸÷¸öÎÄ¼ş¼ĞÖĞÓĞÏàÓ¦µÄËµÃ÷¡£
+TDLä¸ºåŸºäºå¼ é‡å­—å…¸å­¦ä¹ çš„èƒ½è°±CTé‡å»ºçš„ç¨‹åºï¼ŒResultsæ–‡ä»¶å¤¹ç”¨æ¥ä¿å­˜ä½¿ç”¨åˆ°çš„æ•°æ®å’Œè¿­ä»£é‡å»ºæ—¶ç”Ÿæˆçš„ä¸­é—´ç»“æœï¼Œå…¶ä»–æ–‡ä»¶å¤¹ä¸­ä¸ºå…¶ä»–ç›¸å…³å‡½æ•°ï¼Œå„ä¸ªæ–‡ä»¶å¤¹ä¸­æœ‰ç›¸åº”çš„è¯´æ˜ã€‚
+
+TDL is a program for spectral CT reconstruction based on Tensor Dictionary Learning (TDL).
+The Results folder is used to store the data used in the reconstruction process as well as the intermediate results generated during iterative reconstruction.
+Other folders contain related functions, each with its own corresponding description file.
