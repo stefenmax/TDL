@@ -1,11 +1,35 @@
-×ÜÌåËµÃ÷£º
+æ€»ä½“è¯´æ˜ï¼š
 
-1.TDLÎÄ¼ş¼ĞÏÂÎª»ùÓÚÕÅÁ¿×ÖµäÑ§Ï°µÄÄÜÆ×CTÖØ½¨µÄ³ÌĞò¡£
+1.TDLæ–‡ä»¶å¤¹ä¸‹ä¸ºåŸºäºå¼ é‡å­—å…¸å­¦ä¹ çš„èƒ½è°±CTé‡å»ºçš„ç¨‹åºã€‚
 
-2.ÔËĞĞÇ°ÅäÖÃ£ºÔÚÔËĞĞ³ÌĞòÇ°£¬ĞèÒª½øĞĞÒ»Ğ©ÅäÖÃ¡£Ê×ÏÈ£¬ÔÚ±¾ÎÄ¼ş¼ĞµÄDepandency×ÓÎÄ¼ş¼ĞÖĞÓĞpoblano_toolboxºÍtensor_toolboxÁ½¸ö¹¤¾ßÏä£¬ÊÇSandia¹ú¼ÒÊµÑéÊÒ·¢²¼µÄÕÅÁ¿¹¤¾ßÏä¡£°´Ë³Ğò°²×°ÕâÁ½¸ö¹¤¾ßÏä£¬ÔÚ¸÷×ÔÎÄ¼ş¼ĞÖĞÓĞ°²×°ËµÃ÷¡£±¾³ÌĞò»¹»áµ÷ÓÃµ½ÉÏ²ãÂ·¾¶ÏÂµÄDL_funcÎÄ¼ş¼Ğ£¬¸ÃÎÄ¼ş¼ĞÊÇÔÚRon Rubinstein±àĞ´µÄ×ÖµäÑ§Ï°¹¤¾ßÏäµÄ»ù´¡ÉÏĞŞ¸ÄµÃµ½µÄ£¬°üº¬ÁËÏòÁ¿×ÖµäºÍÕÅÁ¿×ÖµäÑ§Ï°µÄÖî¶àº¯Êı£¬ÓÉÓÚÉæ¼°µ½ÁËÓëCÓïÑÔµÄ»ì±à£¬Òò´ËĞèÒªÔÚMatlabÖĞÍ¨¹ımex -setupÃüÁîÀ´ÉèÖÃ»ì±à¡£
+2.è¿è¡Œå‰é…ç½®ï¼šåœ¨è¿è¡Œç¨‹åºå‰ï¼Œéœ€è¦è¿›è¡Œä¸€äº›é…ç½®ã€‚é¦–å…ˆï¼Œåœ¨æœ¬æ–‡ä»¶å¤¹çš„Depandencyå­æ–‡ä»¶å¤¹ä¸­æœ‰poblano_toolboxå’Œtensor_toolboxä¸¤ä¸ªå·¥å…·ç®±ï¼Œæ˜¯Sandiaå›½å®¶å®éªŒå®¤å‘å¸ƒçš„å¼ é‡å·¥å…·ç®±ã€‚æŒ‰é¡ºåºå®‰è£…è¿™ä¸¤ä¸ªå·¥å…·ç®±ï¼Œåœ¨å„è‡ªæ–‡ä»¶å¤¹ä¸­æœ‰å®‰è£…è¯´æ˜ã€‚æœ¬ç¨‹åºè¿˜ä¼šè°ƒç”¨åˆ°ä¸Šå±‚è·¯å¾„ä¸‹çš„DL_funcæ–‡ä»¶å¤¹ï¼Œè¯¥æ–‡ä»¶å¤¹æ˜¯åœ¨Ron Rubinsteinç¼–å†™çš„å­—å…¸å­¦ä¹ å·¥å…·ç®±çš„åŸºç¡€ä¸Šä¿®æ”¹å¾—åˆ°çš„ï¼ŒåŒ…å«äº†å‘é‡å­—å…¸å’Œå¼ é‡å­—å…¸å­¦ä¹ çš„è¯¸å¤šå‡½æ•°ï¼Œç”±äºæ¶‰åŠåˆ°äº†ä¸Cè¯­è¨€çš„æ··ç¼–ï¼Œå› æ­¤éœ€è¦åœ¨Matlabä¸­é€šè¿‡mex -setupå‘½ä»¤æ¥è®¾ç½®æ··ç¼–ã€‚
 
-3.ReconTDL_main.mÊÇ±¾·½·¨µÄÖ÷º¯Êı,ReconTDL_core.mÊÇ·½·¨µÄ³ÌĞòºËĞÄ£¬ÖØ½¨£¨ÖĞ¼ä£©½á¹û½«±£´æÔÚÉÏ²ãÂ·¾¶ÏÂµÄ\ResultsÎÄ¼ş¼ĞÏÂ´´½¨µÄĞÂÎÄ¼ş¼ĞÖĞ¡£DL_CPD_ratio.mÓÃÓÚÑµÁ·ÕÅÁ¿×ÖµäµÄÖ÷º¯Êı£¬kcpd20140705.mÊÇÑµÁ·ÕÅÁ¿×ÖµäµÄ³ÌĞòºËĞÄ£¬¶ÔMOBY·ÂÕæÊı¾İºÍĞ¡ÊóÊµ¼ÊÊı¾İÑµÁ·µÃµ½µÄÕÅÁ¿×ÖµäÒÑ¾­±£´æÔÚÉÏ²ãÂ·¾¶ÏÂµÄ\ResultsÎÄ¼ş¼ĞÏÂ¡£imratioMC.m¶Ô¶àÍ¨µÀÍ¼ÏñµÄ¸÷¸öÍ¨µÀÄ£Öµ½øĞĞ¹éÒ»»¯¡£
+3.ReconTDL_main.mæ˜¯æœ¬æ–¹æ³•çš„ä¸»å‡½æ•°,ReconTDL_core.mæ˜¯æ–¹æ³•çš„ç¨‹åºæ ¸å¿ƒï¼Œé‡å»ºï¼ˆä¸­é—´ï¼‰ç»“æœå°†ä¿å­˜åœ¨ä¸Šå±‚è·¯å¾„ä¸‹çš„\Resultsæ–‡ä»¶å¤¹ä¸‹åˆ›å»ºçš„æ–°æ–‡ä»¶å¤¹ä¸­ã€‚DL_CPD_ratio.mç”¨äºè®­ç»ƒå¼ é‡å­—å…¸çš„ä¸»å‡½æ•°ï¼Œkcpd20140705.mæ˜¯è®­ç»ƒå¼ é‡å­—å…¸çš„ç¨‹åºæ ¸å¿ƒï¼Œå¯¹MOBYä»¿çœŸæ•°æ®å’Œå°é¼ å®é™…æ•°æ®è®­ç»ƒå¾—åˆ°çš„å¼ é‡å­—å…¸å·²ç»ä¿å­˜åœ¨ä¸Šå±‚è·¯å¾„ä¸‹çš„\Resultsæ–‡ä»¶å¤¹ä¸‹ã€‚imratioMC.må¯¹å¤šé€šé“å›¾åƒçš„å„ä¸ªé€šé“æ¨¡å€¼è¿›è¡Œå½’ä¸€åŒ–ã€‚
 
-4.³ÌĞòÖ´ĞĞ£ºÒ»°ãÇé¿öÏÂ£¬ÊÂÏÈ¶Ô¶àÍ¨µÀÊı¾İ½øĞĞFBPÖØ½¨£¬È»ºóÊ¹ÓÃDL_CPD_ratio.m¸ù¾İÖØ½¨Í¼ÏñÑµÁ·µÃµ½ÕÅÁ¿×Öµä²¢±£´æ¡£ÔÚReconTDL_main.mÖĞ¼ÓÔØÍ¶Ó°Êı¾İºÍÑµÁ·µÃµ½µÄ×Öµä£¬Ôò¿ÉÖØ½¨Í¼Ïñ¡£ÔÚ±¾³ÌĞòÖĞ£¬ÒÑ¾­ÑµÁ·²¢±£´æÁËMOBY·ÂÕæÊı¾İºÍÊµ¼ÊĞ¡ÀÏÊóÊı¾İµÄÕÅÁ¿×Öµä£¬Òò´ËÖ±½ÓÔËĞĞReconTDL_main.m¼´¿É£¬´ó¸ÅĞèÒªÔËĞĞ8¸öĞ¡Ê±¡£
+4.ç¨‹åºæ‰§è¡Œï¼šä¸€èˆ¬æƒ…å†µä¸‹ï¼Œäº‹å…ˆå¯¹å¤šé€šé“æ•°æ®è¿›è¡ŒFBPé‡å»ºï¼Œç„¶åä½¿ç”¨DL_CPD_ratio.mæ ¹æ®é‡å»ºå›¾åƒè®­ç»ƒå¾—åˆ°å¼ é‡å­—å…¸å¹¶ä¿å­˜ã€‚åœ¨ReconTDL_main.mä¸­åŠ è½½æŠ•å½±æ•°æ®å’Œè®­ç»ƒå¾—åˆ°çš„å­—å…¸ï¼Œåˆ™å¯é‡å»ºå›¾åƒã€‚åœ¨æœ¬ç¨‹åºä¸­ï¼Œå·²ç»è®­ç»ƒå¹¶ä¿å­˜äº†MOBYä»¿çœŸæ•°æ®å’Œå®é™…å°è€é¼ æ•°æ®çš„å¼ é‡å­—å…¸ï¼Œå› æ­¤ç›´æ¥è¿è¡ŒReconTDL_main.må³å¯ï¼Œå¤§æ¦‚éœ€è¦è¿è¡Œ8ä¸ªå°æ—¶ã€‚
 
+
+General Description:
+
+1.TDL Folder: This folder contains programs for spectral CT reconstruction based on Tensor Dictionary Learning (TDL).
+
+2.Pre-run Configuration:
+Before running the program, some configuration steps are required.
+In the Dependency subfolder, there are two toolboxes â€” poblano_toolbox and tensor_toolbox, both released by Sandia National Laboratories. Install these two toolboxes in order; installation instructions can be found in their respective folders.
+The program also calls functions from the DL_func folder in the parent directory. This folder is a modified version of Ron Rubinsteinâ€™s dictionary learning toolbox and includes many functions for vector and tensor dictionary learning.
+Since it involves mixed programming with C language, you need to configure the MEX compiler in MATLAB using the command:
+mex -setup
+
+3.ReconTDL_main.m â€” the main function of this method.
+ReconTDL_core.m â€” the core implementation of the reconstruction algorithm.
+The (intermediate) reconstruction results will be saved in a newly created folder under the parent directoryâ€™s \Results folder.
+DL_CPD_ratio.m â€” the main function for training tensor dictionaries.
+kcpd20140705.m â€” the core program for tensor dictionary training.
+Tensor dictionaries trained on MOBY simulation data and real mouse data have already been saved under the \Results folder in the parent directory.
+imratioMC.m â€” used for normalizing the magnitude values across multiple image channels.
+
+4.Program Execution:
+Typically, multi-channel data is first reconstructed using FBP (Filtered Back Projection). Then, DL_CPD_ratio.m is used to train the tensor dictionary based on the reconstructed images, which is subsequently saved.
+By loading the projection data and the trained dictionary into ReconTDL_main.m, image reconstruction can be performed.
+In this program, tensor dictionaries trained on both MOBY simulation data and real mouse data have already been provided, so you can directly run ReconTDL_main.m. The total runtime is approximately 8 hours.
 
